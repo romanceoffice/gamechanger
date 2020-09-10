@@ -1,9 +1,9 @@
 {
-  "name": "midway",
+  "name": "gamechanger",
   "private": true,
   "description": "Boilerplate for Gatsby + Sanity + Shopify",
   "version": "0.1.0",
-  "author": "You <kevin@ctrlaltdel.wprld>",
+  "author": "Ash Caplan",
   "dependencies": {
     "@picostate/react": "^3.0.1",
     "@sanity/block-content-to-react": "^2.0.7",
